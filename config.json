@@ -528,6 +528,15 @@
         ],
         "prerequisites": [],
         "difficulty": 1
+      },      {
+        "slug": "etl",
+        "name": "ETL",
+        "uuid": "dc071752-442e-4029-a565-835f862f471b",
+        "practices": [
+          "dictionaries"
+        ],
+        "prerequisites": [],
+        "difficulty": 1
       },
       {
         "slug": "rna-transcription",
