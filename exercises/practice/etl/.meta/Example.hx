@@ -1,5 +1,3 @@
-package;
-
 typedef LegacyData = Map<String, Array<String>>;
 typedef NewData    = Map<String, Int>;
 
